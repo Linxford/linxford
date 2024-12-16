@@ -127,6 +127,7 @@
 | Package Name | Description |
 |--------------|-------------|
 | [yelo_icons](https://pub.dev/packages/yelo_icons) | A Flutter package for integrating svg icons from many source. |
+| [flutter_neumo](https://pub.dev/packages/flutter_neumo) | A complete, ready to use, Neumorphic ui kit for Flutter. Dark theming compatible & fully customizable. |
 <!-- | [dynamicutils](https://pub.dev/packages/dynamicutils) | A collection of utility functions for Flutter projects. |
 | [quran_sharif](https://pub.dev/packages/quran_sharif) | An elegant Quran app for Flutter. |
 | [daynightbanner](https://pub.dev/packages/daynightbanner) | A banner to indicate day/night mode in Flutter apps. |
